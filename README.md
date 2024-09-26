@@ -4,3 +4,4 @@
 - Daniel Esteban Camacho Zarta
 - Laura Daniela Rodríguez Sánchez
   
+## Fotos tomadas del experimento
