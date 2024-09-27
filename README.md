@@ -4,4 +4,6 @@
 - Daniel Esteban Camacho Zarta
 - Laura Daniela Rodríguez Sánchez
   
-## Fotos tomadas del experimento
+## Experimento
+Como archivo se adjunta la evidencia del experimento realizado.
+En el cuaderno jupyter se encuentra la explicación y simulación en Python del mismo.
